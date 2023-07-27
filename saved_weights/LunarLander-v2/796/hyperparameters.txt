@@ -1,0 +1,4 @@
+Actor dict : 
+{'layer': [128, 128], 'activ': 'relu'}Critic dict : 
+{'layer': [128, 128], 'activ': 'relu'}Learning rate : 
+0.0001
